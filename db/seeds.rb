@@ -10,5 +10,5 @@
 
 Mood.create(name: 'Chill', image: 'Chill.jpg')
 Mood.create(name: 'Hyper', image: 'hyper_minion.gif')
-Mood.create(name: 'Hangry', image: 'Blueberry Tart.jpeg')
+Mood.create(name: 'Hangry', image: 'Blueberry_Tart.jpeg')
 Mood.create(name: 'Indecisive', image: 'indecisive_cat_shades.jpg')
