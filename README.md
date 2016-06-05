@@ -1,43 +1,40 @@
 
 # Moodimizer
 ----------------------------------
-
-## How to run:
-
-  
   
 ## What Moodimizer does:
 
   - Have you ever had those day, where you just didn't know what you wanted to do? 
   <br><br>
-  So you think and think about it...and then you end up saying at home not really doing anything and wasting your day away.<br><br>
+  So you think and think about it...and then you end up staying at home not really doing anything and wasting your day away.<br><br>
   Moodimizer takes that hassle of thinking really hard, and gives you plenty of suggestions on what to do based on what you're in the mood for!
 
 ## Goals:
 
-  - To reduce traffic flow of thoughts
-  - To make life more adventurous but in a efficient way.
+  - To reduce traffic flow of thoughts.
+  - To make life more adventurous but in an efficient way.
   
   
 -----------------------------------------  
-### Wireframe:
+### Wireframes:
 
 #####1
-![image](https://github.com/wuj00/the-game-of-mediocre-life/blob/master/02_Project/moody_events/app/assets/images/Wireframe1.png?raw=true)
+![image](https://raw.githubusercontent.com/wuj00/moodimizer/master/app/assets/images/Wireframe1.png)
+
 #####2
-![image](https://github.com/wuj00/the-game-of-mediocre-life/blob/master/02_Project/moody_events/app/assets/images/Wireframe2.png?raw=true)
+![image](https://raw.githubusercontent.com/wuj00/moodimizer/master/app/assets/images/Wireframe2.png)
+
 #####3
-![image](https://github.com/wuj00/the-game-of-mediocre-life/blob/master/02_Project/moody_events/app/assets/images/Wireframe3.png?raw=true)
+![image](https://raw.githubusercontent.com/wuj00/moodimizer/master/app/assets/images/Wireframe3.png)
+
 #####4
-![image](https://github.com/wuj00/the-game-of-mediocre-life/blob/master/02_Project/moody_events/app/assets/images/Wireframe4.png?raw=true)
-#####5
-![image](https://github.com/wuj00/the-game-of-mediocre-life/blob/master/02_Project/moody_events/app/assets/images/Wireframe1.png?raw=true)
+![image](https://raw.githubusercontent.com/wuj00/moodimizer/master/app/assets/images/Wireframe4.png)
 
 <br>
 <br>
 ### ERDiagram:
 
-![image](https://github.com/wuj00/the-game-of-mediocre-life/blob/master/02_Project/moody_events/app/assets/images/ERDiagram%20Model.png?raw=true)
+![image](https://raw.githubusercontent.com/wuj00/moodimizer/master/app/assets/images/ERDiagram%20Model.png)
 ------------------------------------------
 
 ### User Stories:
